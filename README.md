@@ -10,3 +10,6 @@ Para reducir el costo se podría detener la instancia cuando no este en uso o re
 
 Uso de IA: 
 He usado Gemini para la resolución de dudas sencillas y para explicarme como crear el diagrama de forma correcta.
+
+
+Enlace del repositorio GitHub: https://github.com/SDani07/proyecto1Nube.git
